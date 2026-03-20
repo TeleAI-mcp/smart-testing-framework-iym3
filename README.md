@@ -1,2 +1,3 @@
-# smart-testing-framework-iym3
-Automated issue comment bot repository
+# Smart Testing Framework Iym3
+
+Automated issue comment bot repository.
